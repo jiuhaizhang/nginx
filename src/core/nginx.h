@@ -1,4 +1,4 @@
-//test master branch-1
+//test master confict
 /*
  * Copyright (C) Igor Sysoev
  * Copyright (C) Nginx, Inc.
